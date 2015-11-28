@@ -118,3 +118,43 @@ C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bi
 C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.csprojResolveAssemblyReference.cache
 C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.dll
 C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.pdb
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\csc.exe
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\System.Collections.Immutable.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\System.Reflection.Metadata.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\vbc.exe
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\VBCSCompiler.exe
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\VBCSCompiler.exe.config
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\ConsultantCareerWebsite.dll.config
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\ConsultantCareerWebsite.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\ConsultantCareerWebsite.pdb
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Antlr3.Runtime.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Microsoft.Web.Infrastructure.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Newtonsoft.Json.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Helpers.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Mvc.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Optimization.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Razor.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Deployment.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Razor.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\WebGrease.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Helpers.xml
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Mvc.xml
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Optimization.xml
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Razor.xml
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.xml
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Deployment.xml
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Razor.xml
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Antlr3.Runtime.pdb
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Newtonsoft.Json.xml
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.csprojResolveAssemblyReference.cache
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.dll
+D:\MinhToan\ConsutantCareerWebsite\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.pdb
