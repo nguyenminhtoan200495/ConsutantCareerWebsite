@@ -1,0 +1,33 @@
+﻿@model List<ConsultantCareerWebsite.Models.CauHoi>
+    @{
+    ViewBag.Title = "Forum";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <h2>Forum</h2>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <div class="row">
+                <div class="col-md-9">
+                    Tên Chủ Đề
+                </div>
+                <div class="col-md-3">
+                    Ngày Gửi
+                </div>
+            </div>
+        </thead>
+        <tbody>
+            @foreach (var cauhoi in Model)
+            {
+            <div class="row">
+                <div class="col-md-9">
+                    <a href="/Forum/Question/@cauhoi.MaCauHoi" value="Xem điểm">@cauhoi.TenCauHoi</a>
+                </div>
+                <div class="col-md-3">
+                    @cauhoi.NgayGui
+                </div>
+            </div>
+            }
+        </tbody>
+    </table>

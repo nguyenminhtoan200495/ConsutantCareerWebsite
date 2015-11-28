@@ -1,0 +1,79 @@
+﻿@model List<ConsultantCareerWebsite.Models.TuVan>
+    @{
+    ViewBag.Title = "Reply";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <h2>Reply</h2>
+    @if (@Model.Any())
+    {
+    foreach (var tuvan in Model)
+    {
+    <div class="row">
+        <div class="col-md-2">
+            <b>Sở thích</b>
+        </div>
+        <div class="col-md-10">
+            @tuvan.SoThich
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <b>Môn học yêu thích</b>
+        </div>
+        <div class="col-md-10">
+            @tuvan.MonHocYeuThich
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <b>Điểm mạnh</b>
+        </div>
+        <div class="col-md-10">
+            @tuvan.DiemManh
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <b>Điểm yếu</b>
+        </div>
+        <div class="col-md-10">
+            @tuvan.DiemYeu
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <b>Kỹ năng</b>
+        </div>
+        <div class="col-md-10">
+            @tuvan.KyNang
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <b>Công việc</b>
+        </div>
+        <div class="col-md-10">
+            @tuvan.CongViec
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <b>Trả lời</b>
+        </div>
+        <div class="col-md-10">
+            <td><a href="/Website/DetailReply/@tuvan.Id" class="btn btn-success" value="Trả lời"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Trả lời</a></td>
+        </div>
+    </div>
+    <hr />
+    }
+    }
+    else
+    {
+    <p>
+        Không có thắc mắc cần trả lời
+    </p>
+    }
+
+
+

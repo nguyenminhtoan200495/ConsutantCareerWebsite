@@ -1,0 +1,37 @@
+﻿@model ConsultantCareerWebsite.Models.Admin
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Index", "Admin", FormMethod.Post, new {id = "admin"}))
+{
+<div class="row">
+    <div class="col-md-2">
+        <b>Tài khoản</b>
+    </div>
+    <div class="col-md-4">
+        @Html.TextBoxFor(m => m.TaiKhoan, new {@class = "form-control"})
+    </div>
+    <div class="col-md-6"></div>
+</div>
+<br />
+<div class="row">
+    <div class="col-md-2">
+        <b>Mật khẩu</b>
+    </div>
+    <div class="col-md-4">
+        @Html.PasswordFor(m => m.Matkhau, new {@class = "form-control"})
+    </div>
+    <div class="col-md-6"></div>
+</div>
+<br />
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-10">
+        <input type="submit" class="btn btn-primary" />
+    </div>
+</div>
+}

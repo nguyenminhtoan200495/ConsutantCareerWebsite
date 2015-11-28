@@ -1,0 +1,77 @@
+﻿@model ConsultantCareerWebsite.Models.TestScore
+@{
+    ViewBag.Title = "TestScore";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>TestScore</h2>
+
+<hr />
+@using (Html.BeginForm("TestScore", "Truong", FormMethod.Post, new {id = "testscore"}))
+{
+    <div class="row">
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.ListTruong)
+        </div>
+        <div class="col-md-4">
+            @Html.DropDownListFor(x => x.MaTruong, Model.ListTruong, new {@class = "form-control"})
+        </div>
+        <div class="col-md-6"></div>
+    </div>
+<br/>
+    <div class="row">
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.Sbd)
+        </div>
+        <div class="col-md-4">
+            @Html.TextBoxFor(model => model.Sbd, new {@class = "form-control"})
+        </div>
+        <div class="col-md-6"></div>
+    </div>
+    <br/>
+    <div class="row">
+        <div class="col-md-2">
+            @Html.LabelFor(model => model.HoTen)
+        </div>
+        <div class="col-md-4">
+            @Html.TextBoxFor(model => model.HoTen, new {@class = "form-control"})
+        </div>
+        <div class="col-md-6"></div>
+    </div>
+<button id="search" class="btn btn-primary"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Tìm kiếm</button>
+}
+<hr/>
+@if (@Model.ListDiem.Any())
+{
+    <table class="table table-bordered table-striped">
+    <thead>
+        <tr class="success">
+            <th>Số Báo Danh</th>
+            <th>Họ Tên</th>
+            <th>Ngày Sinh</th>
+            <th>Tên Ngành</th>
+            <th>Khối Thi</th>
+            <th>Điểm Thi</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var diem in @Model.ListDiem)
+        {
+        <tr>
+            <td>@diem.Sbd</td>
+            <td>@diem.HoTen</td>
+            <td>@diem.NgaySinh</td>
+            <td>@diem.TenNganh</td>
+            <td>@diem.KhoiThi</td>
+            <td>@diem.Diem</td>
+        </tr>
+        }
+    </tbody>
+</table>
+}
+else
+{
+    <p>
+        Không có thông tin cần tìm
+    </p>
+}

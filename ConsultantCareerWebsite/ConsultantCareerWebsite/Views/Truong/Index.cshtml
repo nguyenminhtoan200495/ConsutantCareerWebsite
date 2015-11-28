@@ -1,0 +1,62 @@
+﻿@model List<ConsultantCareerWebsite.Models.Truong>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<hr/>
+@using (Html.BeginForm("Index", "Truong", FormMethod.Post))
+{
+    <div class="row">
+        <div class="col-md-4">
+            <label>Mã trường</label>
+        </div>
+        <div class="col-md-8">
+            <input name="matruong" type="text" id="matruong" class="form-control"/>
+        </div>
+    </div>
+    <br/>
+    <div class="row">
+        <div class="col-md-4">
+            <label>Tên trường</label>
+        </div>
+        <div class="col-md-8">
+            <input name="tentruong" type="text" id="tentruong" class="form-control"/>
+        </div>
+    </div>
+    <br/>
+    <div class="row">
+        <div class="col-md-4">
+            <label>Loại trường</label>
+        </div>
+        <div class="col-md-8">
+            <input name="loaitruong" type="text" id="loaitruong" class="form-control"/>
+        </div>
+    </div>
+    <button id="timkiem" class="btn btn-primary"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Tìm kiếm</button>
+}
+
+<hr/>
+
+<table class="table table-bordered table-striped">
+    <thead>
+    <tr class="success">
+        <th>Mã Trường</th>
+        <th>Tên Trường</th>
+        <th>Loại Trường</th>
+        <th>Xem Điểm Chuẩn</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var truong in Model)
+    {
+        <tr>
+            <td>@truong.MaTruong</td>
+            <td>@truong.TenTruong</td>
+            <td>@truong.LoaiTruong</td>
+            <td><a href="/Truong/Detail/@truong.MaTruong/2015" class="btn btn-success" value="Xem điểm"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Xem Điểm</a></td>
+            @*<td><a href="@Url.Action("Detail", "Truong", new {id = @truong.MaTruong})" class="btn btn-success" id="xemdiem" value="Xem điểm"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> Xem Điểm</a></td>*@
+        </tr>
+    }
+    </tbody>
+</table>
+<script src="~/Scripts/MySchool.js"></script>

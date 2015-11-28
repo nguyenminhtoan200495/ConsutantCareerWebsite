@@ -1,0 +1,66 @@
+﻿@model ConsultantCareerWebsite.Models.PhanHoi
+    @{
+    ViewBag.Title = "Question";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+<h2>Question</h2>
+
+<div class="row">
+    <div class="col-md-12">
+        <b>@Model.TenCauHoi</b>
+    </div>
+</div>
+<div row="row">
+    <div class="col-md-12">
+        @Model.NoiDung
+    </div>
+</div>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <b>Ý kiến bạn đọc</b>
+    </div>
+</div>
+    @foreach (var phanhoi in Model.ListCauTraLoi)
+    {
+<div class="row">
+    <div class="col-md-9">
+        @phanhoi.HoTen
+    </div>
+    <div class="col-md-3">
+        <b>Trả lời</b> &#124;
+        @phanhoi.NgayGui
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        @phanhoi.TraLoi
+    </div>
+</div>
+<hr />
+    }
+<hr />
+@using (Html.BeginForm("Question", "Forum", FormMethod.Post, new { id = "form" }))
+    {
+<input type="hidden" name="MaCauHoi" value="@Model.MaCauHoi" />
+<div class="row">
+    <div class="col-md-12">
+        <b>Ý kiến của bạn</b>
+    </div>
+</div>
+<div class="col-md-12">
+    <textarea rows="3" name="TraLoi" id="TraLoi" class="form-control"></textarea>
+</div>
+<hr />
+
+<div class="row">
+    <div class="col-md-2">
+        <b>Họ tên</b>
+    </div>
+    <div class="col-md-10">
+        <input type="text" name="HoTen" id="HoTen" class="form-control" />
+    </div>
+</div>
+<input type="submit" id="comment" class="btn btn-primary" />
+    }

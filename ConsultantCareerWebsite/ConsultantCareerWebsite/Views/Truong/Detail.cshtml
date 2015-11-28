@@ -1,0 +1,36 @@
+﻿@model ConsultantCareerWebsite.Models.TruongDetailViewModel
+    @{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+<h2>Detail Of School</h2>
+
+
+@Html.DropDownListFor(x => x.Nam, Model.ListNam,new {@class = "form-control"})
+
+<hr />
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Mã Ngành</th>
+            <th>Tên Ngành</th>
+            <th>Khối Thi</th>
+            <th>Điểm Chuẩn</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var chitiet in Model.ListDiemChuans)
+        {
+        <tr>
+            <td>@chitiet.MaNganh</td>
+            <td>@chitiet.TenNganh</td>
+            <td>@chitiet.KhoiThi</td>
+            <td>@chitiet.Diem</td>
+        </tr>
+        }
+    </tbody>
+</table>
+    @section Scripts {
+<script src="~/Scripts/MyWeb.js"></script>
+    }

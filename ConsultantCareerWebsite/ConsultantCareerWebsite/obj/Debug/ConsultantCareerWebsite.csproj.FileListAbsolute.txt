@@ -1,0 +1,120 @@
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\csc.exe
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\System.Collections.Immutable.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\System.Reflection.Metadata.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\vbc.exe
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\VBCSCompiler.exe
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\VBCSCompiler.exe.config
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\ConsultantCareerWebsite.dll.config
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\ConsultantCareerWebsite.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\ConsultantCareerWebsite.pdb
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Antlr3.Runtime.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Microsoft.Web.Infrastructure.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Newtonsoft.Json.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Helpers.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Mvc.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Optimization.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Razor.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Deployment.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Razor.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\WebGrease.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Helpers.xml
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Mvc.xml
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Optimization.xml
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Razor.xml
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.xml
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Deployment.xml
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Razor.xml
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Antlr3.Runtime.pdb
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Newtonsoft.Json.xml
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.csprojResolveAssemblyReference.cache
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.dll
+D:\MTOAN\Nam III\Mon hoc\Phan tich va thiet ke phan mem\Do An\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.pdb
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\ConsultantCareerWebsite.dll.config
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\ConsultantCareerWebsite.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\ConsultantCareerWebsite.pdb
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\WebGrease.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.dll
+C:\Users\PC\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.pdb
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\csc.exe
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\vbc.exe
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\ConsultantCareerWebsite.dll.config
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\ConsultantCareerWebsite.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\ConsultantCareerWebsite.pdb
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Antlr3.Runtime.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Newtonsoft.Json.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Helpers.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Mvc.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Optimization.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Razor.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\WebGrease.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Helpers.xml
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Mvc.xml
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Optimization.xml
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.Razor.xml
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.xml
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\bin\Newtonsoft.Json.xml
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.dll
+C:\Users\Lionel Messi\Desktop\ConsultantCareerWebsite\ConsultantCareerWebsite\obj\Debug\ConsultantCareerWebsite.pdb

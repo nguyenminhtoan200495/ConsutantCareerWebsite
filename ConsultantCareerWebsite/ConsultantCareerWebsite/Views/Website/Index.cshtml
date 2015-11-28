@@ -1,0 +1,71 @@
+﻿@model ConsultantCareerWebsite.Models.TuVan
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Index", "Website", FormMethod.Post, new {id = "advise"}))
+{
+<div class="row">
+    <div class="col-md-2">
+        Sở thích
+    </div>
+    <div class="col-md-10">
+        <textarea rows="2" name="sothich" id="sothich" class="form-control"></textarea>
+    </div>
+</div>
+<br />
+<div class="row">
+    <div class="col-md-2">
+        Môn học yêu thích
+    </div>
+    <div class="col-md-10">
+        <textarea rows="2" name="monhocyeuthich" id="monhocyeuthich" class="form-control"></textarea>
+    </div>
+</div>
+<br />
+<div class="row">
+    <div class="col-md-2">
+        Điểm mạnh
+    </div>
+    <div class="col-md-10">
+        <textarea rows="2" name="diemmanh" id="diemmanh" class="form-control"></textarea>
+    </div>
+</div>
+<br />
+<div class="row">
+    <div class="col-md-2">
+        Điểm yếu
+    </div>
+    <div class="col-md-10">
+        <textarea rows="2" name="diemyeu" id="diemyeu" class="form-control"></textarea>
+    </div>
+</div>
+<br />
+<div class="row">
+    <div class="col-md-2">
+        Kỹ năng muốn học hỏi
+    </div>
+    <div class="col-md-10">
+        <textarea rows="2" name="kynang" id="kynang" class="form-control"></textarea>
+    </div>
+</div>
+<br />
+<div class="row">
+    <div class="col-md-2">
+        Công việc muốn làm
+    </div>
+    <div class="col-md-10">
+        <textarea rows="2" name="congviec" id="congviec" class="form-control"></textarea>
+    </div>
+</div>
+<br />
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-10">
+        <input type="submit" class="btn btn-primary" />
+    </div>
+</div>
+}
