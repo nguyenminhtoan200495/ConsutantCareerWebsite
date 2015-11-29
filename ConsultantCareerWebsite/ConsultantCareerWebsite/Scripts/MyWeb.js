@@ -1,7 +1,14 @@
 ﻿$(function () {
+    init();
     registerEvent();
 });
-
+function init() {
+    ;
+}
+$(document).ready(function () {
+    $("#note1").hide();
+    $("#note2").hide();
+});
 function registerEvent() {
     $("#Nam").change(function () {
         var current = window.location.href;
@@ -14,5 +21,8 @@ function registerEvent() {
         if (traLoi !== "" && hoTen !== "") {
             $("#form").submit();
         }
+    });
+    $("#dangnhap").click(function () {
+        ;
     });
 }

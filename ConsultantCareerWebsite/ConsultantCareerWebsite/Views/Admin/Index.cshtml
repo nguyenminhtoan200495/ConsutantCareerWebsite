@@ -6,32 +6,39 @@
 
 <h2>Index</h2>
 
-@using (Html.BeginForm("Index", "Admin", FormMethod.Post, new {id = "admin"}))
+@using (Html.BeginForm("Index", "Admin", FormMethod.Post, new { id = "admin" }))
 {
-<div class="row">
-    <div class="col-md-2">
-        <b>Tài khoản</b>
+    <div class="row form-group has-error">
+        <div class="col-md-2">
+        </div>
+        <div class="col-md-10">
+            <label>Tài khoản hoặc mật khẩu không đúng!</label>
+        </div>
     </div>
-    <div class="col-md-4">
-        @Html.TextBoxFor(m => m.TaiKhoan, new {@class = "form-control"})
+    <div class="row has-error">
+        <div class="col-md-2">
+            <b>Tài khoản</b>
+        </div>
+        <div class="col-md-4">
+            @Html.TextBoxFor(m => m.TaiKhoan, new { @id = "taikhoan", @class = "form-control" })
+        </div>
+        <div class="col-md-6"></div>
     </div>
-    <div class="col-md-6"></div>
-</div>
-<br />
-<div class="row">
-    <div class="col-md-2">
-        <b>Mật khẩu</b>
+    <br />
+    <div class="row">
+        <div class="col-md-2">
+            <b>Mật khẩu</b>
+        </div>
+        <div class="col-md-4">
+            @Html.PasswordFor(m => m.Matkhau, new { @id = "matkhau", @class = "form-control" })
+        </div>
+        <div class="col-md-6"></div>
     </div>
-    <div class="col-md-4">
-        @Html.PasswordFor(m => m.Matkhau, new {@class = "form-control"})
+    <br />
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-10">
+            <input type="submit" id="dangnhap" class="btn btn-primary" />
+        </div>
     </div>
-    <div class="col-md-6"></div>
-</div>
-<br />
-<div class="row">
-    <div class="col-md-2"></div>
-    <div class="col-md-10">
-        <input type="submit" class="btn btn-primary" />
-    </div>
-</div>
 }

@@ -20,19 +20,5 @@ namespace ConsultantCareerWebsite.Controllers
             websiteHelper.AddTuVan(tuvan);
             return View();
         }
-        public ActionResult Reply()
-        {
-            return View(websiteHelper.GetListTuVan());
-        }
-        public ActionResult DetailReply(int id)
-        {
-            return View(websiteHelper.GetTuVan(id));
-        }
-        [HttpPost]
-        public ActionResult DetailReply(TuVan tuVan)
-        {
-            websiteHelper.Update(tuVan);
-            return (RedirectToAction("Reply"));
-        }
     }
 }

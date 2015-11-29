@@ -20,9 +20,23 @@ namespace ConsultantCareerWebsite.Controllers
         {
             if (adminHelper.IsAdmin(admin))
             {
-                ;
+                return (RedirectToAction("Reply"));
             }
             return View();
+        }
+        public ActionResult Reply()
+        {
+            return View(adminHelper.GetListTuVan());
+        }
+        public ActionResult DetailReply(int id)
+        {
+            return View(adminHelper.GetTuVan(id));
+        }
+        [HttpPost]
+        public ActionResult DetailReply(TuVan tuVan)
+        {
+            adminHelper.Update(tuVan);
+            return (RedirectToAction("Reply"));
         }
     }
 }

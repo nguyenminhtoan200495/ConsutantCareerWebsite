@@ -190,9 +190,9 @@
     <Content Include="Views\Forum\Index.cshtml" />
     <Content Include="Views\Forum\Question.cshtml" />
     <Content Include="Views\Truong\TestScore.cshtml" />
-    <Content Include="Views\Website\Reply.cshtml" />
-    <Content Include="Views\Website\DetailReply.cshtml" />
     <Content Include="Views\Admin\Index.cshtml" />
+    <Content Include="Views\Admin\Reply.cshtml" />
+    <Content Include="Views\Admin\DetailReply.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
