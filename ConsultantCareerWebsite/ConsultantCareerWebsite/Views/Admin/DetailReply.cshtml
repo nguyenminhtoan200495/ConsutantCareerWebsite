@@ -1,0 +1,76 @@
+﻿@model ConsultantCareerWebsite.Models.TuVan
+@{
+    ViewBag.Title = "DetailReply";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>DetailReply</h2>
+
+@using (Html.BeginForm("DetailReply", "Admin", FormMethod.Post, new { id = "detail_reply" }))
+{
+    <div class="row">
+        <div class="col-md-2">
+            <b>Sở thích</b>
+        </div>
+        <div class="col-md-10">
+            @Model.SoThich
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <b>Môn học yêu thích</b>
+        </div>
+        <div class="col-md-10">
+            @Model.MonHocYeuThich
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <b>Điểm mạnh</b>
+        </div>
+        <div class="col-md-10">
+            @Model.DiemManh
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <b>Điểm yếu</b>
+        </div>
+        <div class="col-md-10">
+            @Model.DiemYeu
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <b>Kỹ năng</b>
+        </div>
+        <div class="col-md-10">
+            @Model.KyNang
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <b>Công việc</b>
+        </div>
+        <div class="col-md-10">
+            @Model.CongViec
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-2">
+            <b>Tư vấn</b>
+        </div>
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.TraLoi, new { @class = "form-control" })
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-10">
+            <input type="submit" class="btn btn-primary" />
+        </div>
+    </div>
+}
+
